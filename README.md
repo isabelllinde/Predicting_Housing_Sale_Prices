@@ -35,3 +35,5 @@ Below is a brief discussion of the included features and their descriptions,
 * quality - Rating of the overall material and finish of the house (poor, fair, average, good, excellent)
 
 * condition - Rating of the overall condition of the house (poor, fair, average, good, excellent)
+
+We developed a predictive model for the sale price of homes in this city. The model accurately predicts the price of a new house coming to market.
